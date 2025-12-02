@@ -1,4 +1,4 @@
-Railway Reservation System
+## Railway Reservation System
 
 This project implements a simple online railway reservation system where users can:
 
