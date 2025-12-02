@@ -2,24 +2,24 @@
 
 This project implements a simple online railway reservation system where users can:
 
-Search for trains
+* Search for trains
 
-View train details
+* View train details
 
-Book seats
+* Book seats
 
-View their booking history
+* View their booking history
 
-Tools Used:
+# Tools Used:
 
-Jira (Task management)
+* Jira (Task management)
 
-Confluence (Documentation)
+* Confluence (Documentation)
 
-GitHub (Version control)
+* GitHub (Version control)
 
-Backend: Flask / Node.js
+* Backend: Flask / Node.js
 
-Frontend: HTML / JavaScript
+* Frontend: HTML / JavaScript
 
-Database: SQLite / PostgreSQL
+* Database: SQLite / PostgreSQL
